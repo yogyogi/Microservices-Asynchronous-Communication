@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices\\Asynchronous Communication\\CommandCenter\\CommandCenter.csproj": {}
+    "E:\\Yogesh\\SEO\\Yogihosting\\codes-new\\hosting\\Asynchronous\\CommandCenter\\CommandCenter.csproj": {}
   },
   "projects": {
-    "E:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices\\Asynchronous Communication\\CommandCenter\\CommandCenter.csproj": {
+    "E:\\Yogesh\\SEO\\Yogihosting\\codes-new\\hosting\\Asynchronous\\CommandCenter\\CommandCenter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices\\Asynchronous Communication\\CommandCenter\\CommandCenter.csproj",
+        "projectUniqueName": "E:\\Yogesh\\SEO\\Yogihosting\\codes-new\\hosting\\Asynchronous\\CommandCenter\\CommandCenter.csproj",
         "projectName": "CommandCenter",
-        "projectPath": "E:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices\\Asynchronous Communication\\CommandCenter\\CommandCenter.csproj",
+        "projectPath": "E:\\Yogesh\\SEO\\Yogihosting\\codes-new\\hosting\\Asynchronous\\CommandCenter\\CommandCenter.csproj",
         "packagesPath": "C:\\Users\\Avita\\.nuget\\packages\\",
-        "outputPath": "E:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices\\Asynchronous Communication\\CommandCenter\\obj\\",
+        "outputPath": "E:\\Yogesh\\SEO\\Yogihosting\\codes-new\\hosting\\Asynchronous\\CommandCenter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Avita\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -37,24 +37,24 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "MassTransit.AspNetCore": {
               "target": "Package",
-              "version": "[7.1.8, )"
+              "version": "[7.3.1, )"
             },
             "MassTransit.RabbitMQ": {
               "target": "Package",
-              "version": "[7.1.8, )"
+              "version": "[8.1.2, )"
             },
             "MongoDB.Driver": {
               "target": "Package",
-              "version": "[2.12.2, )"
+              "version": "[2.22.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.1.3, )"
+              "version": "[6.4.0, )"
             }
           },
           "imports": [
@@ -63,7 +63,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -75,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

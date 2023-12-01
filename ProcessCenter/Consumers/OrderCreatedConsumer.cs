@@ -1,9 +1,5 @@
 ﻿using Infrastructure;
 using MassTransit;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using ProcessCenter.Entity;
 
 namespace ProcessCenter.Consumers
