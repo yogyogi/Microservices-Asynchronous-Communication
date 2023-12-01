@@ -1,9 +1,11 @@
-﻿using MongoDB.Bson.Serialization.Serializers;
-using MongoDB.Bson.Serialization;
+﻿using ProcessCenter.Entity;
+using ProcessCenter.Settings;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
 using MongoDB.Bson;
+using MongoDB.Bson.Serialization;
+using MongoDB.Bson.Serialization.Serializers;
 using MongoDB.Driver;
-using ProcessCenter.Entity;
-using ProcessCenter.Setting;
 
 namespace ProcessCenter.MongoDB
 {
