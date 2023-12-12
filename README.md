@@ -1,6 +1,8 @@
 # Microservices Asynchronous Communication with RabbitMQ and MassTransit
 Here we will understand how Asynchronous Communication between Microservices work. In our Pizza Drone Delivery application we have 2 Microservices – CommandCenter and ProcessCenter. They communicate with one another synchronously using HttpClient class.
 
+**Repository is updated to .NET 8.0**
+
 Read the entire article here - https://www.hosting.work/aspnet-core-microservices-asynchronous-communication-rabbitmq-masstransit/
 
 # Tutorial Contents
