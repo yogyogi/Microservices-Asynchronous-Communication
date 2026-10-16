@@ -1,0 +1,64 @@
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\CommandCenter\bin\Debug\CCUI.deps.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\CommandCenter\bin\Debug\CCUI.runtimeconfig.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\CommandCenter\bin\Debug\appsettings.Development.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\CommandCenter\bin\Debug\appsettings.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\CommandCenter\bin\Debug\CCUI.staticwebassets.runtime.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\CommandCenter\bin\Debug\CCUI.staticwebassets.endpoints.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\CommandCenter\bin\Debug\CCUI.exe
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\CommandCenter\bin\Debug\CommandCenter.deps.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\CommandCenter\bin\Debug\CommandCenter.runtimeconfig.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\CommandCenter\bin\Debug\CommandCenter.staticwebassets.endpoints.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\CommandCenter\bin\Debug\CommandCenter.exe
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\CommandCenter\bin\Debug\CCUI.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\CommandCenter\bin\Debug\CommandCenter.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\CommandCenter\bin\Debug\MassTransit.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\CommandCenter\bin\Debug\MassTransit.RabbitMqTransport.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\CommandCenter\bin\Debug\MongoDB.Driver.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\CommandCenter\bin\Debug\MassTransit.Abstractions.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\CommandCenter\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\CommandCenter\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\CommandCenter\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\CommandCenter\bin\Debug\MongoDB.Bson.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\CommandCenter\bin\Debug\RabbitMQ.Client.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\CommandCenter\bin\Debug\DnsClient.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\CommandCenter\bin\Debug\SharpCompress.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\CommandCenter\bin\Debug\ZstdSharp.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\CommandCenter\bin\Debug\Snappier.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\CommandCenter\bin\Debug\Microsoft.OpenApi.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\CommandCenter\bin\Debug\CCUI.pdb
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\CommandCenter\bin\Debug\CommandCenter.pdb
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\CommandCenter\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\CommandCenter\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\CommandCenter\obj\Debug\docker-c.35A3FFBA.Up2Date
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\CommandCenter\bin\Debug\appsettings.Development.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\CommandCenter\bin\Debug\appsettings.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\CommandCenter\bin\Debug\CommandCenter.staticwebassets.endpoints.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\CommandCenter\bin\Debug\CCUI.deps.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\CommandCenter\bin\Debug\CCUI.runtimeconfig.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\CommandCenter\bin\Debug\CCUI.staticwebassets.runtime.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\CommandCenter\bin\Debug\CCUI.staticwebassets.endpoints.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\CommandCenter\bin\Debug\CCUI.exe
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\CommandCenter\bin\Debug\CommandCenter.deps.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\CommandCenter\bin\Debug\CommandCenter.runtimeconfig.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\CommandCenter\bin\Debug\CommandCenter.exe
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\CommandCenter\bin\Debug\CCUI.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\CommandCenter\bin\Debug\CommandCenter.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\CommandCenter\bin\Debug\MassTransit.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\CommandCenter\bin\Debug\MassTransit.RabbitMqTransport.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\CommandCenter\bin\Debug\MongoDB.Driver.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\CommandCenter\bin\Debug\MassTransit.Abstractions.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\CommandCenter\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\CommandCenter\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\CommandCenter\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\CommandCenter\bin\Debug\MongoDB.Bson.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\CommandCenter\bin\Debug\RabbitMQ.Client.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\CommandCenter\bin\Debug\DnsClient.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\CommandCenter\bin\Debug\SharpCompress.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\CommandCenter\bin\Debug\ZstdSharp.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\CommandCenter\bin\Debug\Snappier.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\CommandCenter\bin\Debug\Microsoft.OpenApi.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\CommandCenter\bin\Debug\CCUI.pdb
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\CommandCenter\bin\Debug\CommandCenter.pdb
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\CommandCenter\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\CommandCenter\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\CommandCenter\obj\Debug\docker-c.35A3FFBA.Up2Date

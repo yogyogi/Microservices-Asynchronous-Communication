@@ -1,0 +1,88 @@
+﻿@page "/processes"
+@using static PCUI.Infrastructure.Dtos
+@rendermode InteractiveServer
+@inject ProcessClient Client
+
+<h3>Processes</h3>
+
+<input @bind="droneIdText" placeholder="Drone Id" />
+<button @onclick="Load">Load</button>
+
+@if (processes is null) { }
+else if (!processes.Any())
+{
+    <p>No processes found.</p>
+}
+else
+{
+    <table class="table">
+        <thead><tr><th>Order</th><th>Drone Id</th><th>Address</th><th>Qty</th><th>Status</th><th>Acquired</th></tr></thead>
+        <tbody>
+            @foreach (var p in processes)
+            {
+                <tr>
+                    <td>@p.OrderId</td>
+                    <td>@p.DroneId</td>
+                    <td>@p.Address</td>
+                    <td>@p.Quantity</td>
+                    <td>@p.Status</td>
+                    <td>@p.AcquiredDate.LocalDateTime</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<h4 class="mt-4">Grant order / update status</h4>
+
+<input @bind="postDroneId" placeholder="Drone Id" />
+<input @bind="postOrderId" placeholder="Order Id" />
+<input @bind="postStatus" placeholder="Status" />
+<button @onclick="Save">Save</button>
+
+@if (message != null)
+{
+    <p>@message</p>
+}
+
+@code {
+    private string droneIdText = "";
+    private List<ProcessDto>? processes;
+
+    private string postDroneId = "";
+    private string postOrderId = "";
+    private string postStatus = "";
+    private string? message;
+
+    private async Task Load()
+    {
+        if (Guid.TryParse(droneIdText, out var id))
+            processes = await Client.GetAsync(id);
+    }
+
+    private async Task Save()
+    {
+        if (!Guid.TryParse(postDroneId, out var droneId) ||
+            !Guid.TryParse(postOrderId, out var orderId))
+        {
+            message = "Drone Id and Order Id must be valid GUIDs.";
+            return;
+        }
+
+        try
+        {
+            var ok = await Client.PostAsync(new GrantOrderDto(droneId, orderId, postStatus));
+            message = ok ? "Saved." : "The API rejected the request.";
+
+            if (ok)
+            {
+                droneIdText = postDroneId;
+                await Load();   // refresh the table
+            }
+        }
+        catch (HttpRequestException ex)
+        {
+            message = $"Request failed: {ex.Message}";
+        }
+    }
+}

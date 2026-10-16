@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="docker-compose.dcproj">
+    <Build />
+  </Project>
+  <Project Path="PCUI/PCUI.csproj" Id="1b82f16b-4e97-4d84-b1f6-e1bdd36c9f08" />
+  <Project Path="ProcessCenter/ProcessCenter.csproj" />
+</Solution>

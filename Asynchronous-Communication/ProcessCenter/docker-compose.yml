@@ -1,0 +1,25 @@
+services:
+  processcenter:
+    image: ${DOCKER_REGISTRY-}processcenter
+    build:
+      context: .
+      dockerfile: ProcessCenter/Dockerfile
+
+  pcui:
+    image: ${DOCKER_REGISTRY-}pcui
+    build:
+      context: .
+      dockerfile: PCUI/Dockerfile
+
+  mongo1:
+    image: mongo
+    container_name: mongo1
+    command: mongod --port 27016
+    ports:
+      - 27016:27016
+    volumes:
+      - mongodbdata:/data/db
+
+volumes:
+  mongodbdata:
+

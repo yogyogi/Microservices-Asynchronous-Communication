@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CCUI/CCUI.csproj" Id="afeb8ac6-9d1b-4378-873e-15a76669bcc7" />
+  <Project Path="CommandCenter/CommandCenter.csproj" />
+  <Project Path="docker-compose.dcproj">
+    <Build />
+  </Project>
+</Solution>

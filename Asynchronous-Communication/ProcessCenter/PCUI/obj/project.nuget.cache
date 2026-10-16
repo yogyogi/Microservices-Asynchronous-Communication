@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NCaVVlD4eok=",
+  "success": true,
+  "projectFilePath": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices Asynchronous Communication\\Asynchronous-Communication\\ProcessCenter\\PCUI\\PCUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Avita\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.13\\microsoft.aspnetcore.app.internal.assets.10.0.13.nupkg.sha512",
+    "C:\\Users\\Avita\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.24.1-preview.1\\microsoft.visualstudio.azure.containers.tools.targets.1.24.1-preview.1.nupkg.sha512"
+  ],
+  "logs": []
+}

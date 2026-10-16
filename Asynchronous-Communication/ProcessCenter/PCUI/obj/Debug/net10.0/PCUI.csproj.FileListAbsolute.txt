@@ -1,0 +1,259 @@
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\bin\Debug\net10.0\appsettings.Development.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\bin\Debug\net10.0\appsettings.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\bin\Debug\net10.0\PCUI.staticwebassets.runtime.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\bin\Debug\net10.0\PCUI.staticwebassets.endpoints.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\bin\Debug\net10.0\PCUI.exe
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\bin\Debug\net10.0\PCUI.deps.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\bin\Debug\net10.0\PCUI.runtimeconfig.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\bin\Debug\net10.0\PCUI.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\bin\Debug\net10.0\PCUI.pdb
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\EmbeddedAttribute.cs
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\ValidatableTypeAttribute.cs
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\PCUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\PCUI.AssemblyInfoInputs.cache
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\PCUI.AssemblyInfo.cs
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\PCUI.csproj.CoreCompileInputs.cache
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\PCUI.MvcApplicationPartsAssemblyInfo.cache
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\scopedcss\Components\Layout\ReconnectModal.razor.rz.scp.css
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\scopedcss\bundle\PCUI.styles.css
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\scopedcss\projectbundle\PCUI.bundle.scp.css
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\n4sgks9mcu-{0}-khy4lop6wu-khy4lop6wu.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\pel4touo26-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\m7n7u54s40-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\pkjd06recn-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\8ggy4h2qbf-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\lmias9g07u-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\v5j2bkut3h-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\n0xm5x8bso-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\hdxhxjhyxp-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\br2wmx688n-{0}-ub07r2b239-ub07r2b239.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\utb7p5f1gx-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\exmq5ebdnz-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\dxa9ay9wfx-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\3phomt0mv1-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\t15nu9dnnu-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\7n1t4mz10p-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\p79xbhpr48-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\nriovnq2xz-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\4iopbcgimv-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\tza90skr01-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\kkpin5w3dp-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\ptws3jclno-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\gd85qxfjo4-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\gxzkvow2zn-{0}-06098lyss8-06098lyss8.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\xnwexr0v8l-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\g29csbpijt-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\9ov1w29x6i-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\s1az6i07t4-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\it419pyh2d-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\6q1dl0oxdl-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\n7knzk1mma-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\033w9vhipb-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\4a72ijso1q-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\gberq5g7t7-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\fln9zcxskd-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\1rtiwowhhw-{0}-493y06b0oq-493y06b0oq.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\yn0qpm3lzb-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\v5rf1muigo-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\r1zdaajumf-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\esg489ktfe-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\o3ysjpmxoq-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\j7ky25nluq-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\rgtsc0hddr-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\0yj3d565vh-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\qtsnn3ak0c-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\a0ue8trm1i-{0}-abdmv1u4y3-abdmv1u4y3.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\g3xwyjga9r-{0}-wyu7y4jcvb-wyu7y4jcvb.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\qyxi9h1xjj-{0}-wfr2hj6447-wfr2hj6447.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\grze1mlk69-{0}-b1q9ufjrbq-b1q9ufjrbq.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\compressed\quvsbvr9dk-{0}-b1q9ufjrbq-b1q9ufjrbq.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\staticwebassets.build.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\staticwebassets.development.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\swae.build.ex.cache
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\PCUI.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\refint\PCUI.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\PCUI.pdb
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\PCUI.genruntimeconfig.cache
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Microservices-Synchronous-Communication-main\PCUI\obj\Debug\net10.0\ref\PCUI.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\bin\Debug\net10.0\appsettings.Development.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\bin\Debug\net10.0\appsettings.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\bin\Debug\net10.0\PCUI.staticwebassets.endpoints.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\bin\Debug\net10.0\PCUI.staticwebassets.runtime.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\bin\Debug\net10.0\PCUI.exe
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\bin\Debug\net10.0\PCUI.deps.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\bin\Debug\net10.0\PCUI.runtimeconfig.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\bin\Debug\net10.0\PCUI.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\bin\Debug\net10.0\PCUI.pdb
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\EmbeddedAttribute.cs
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\ValidatableTypeAttribute.cs
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\PCUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\PCUI.AssemblyInfoInputs.cache
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\PCUI.AssemblyInfo.cs
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\PCUI.csproj.CoreCompileInputs.cache
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\PCUI.MvcApplicationPartsAssemblyInfo.cache
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\scopedcss\Components\Layout\ReconnectModal.razor.rz.scp.css
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\scopedcss\bundle\PCUI.styles.css
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\scopedcss\projectbundle\PCUI.bundle.scp.css
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\n4sgks9mcu-{0}-khy4lop6wu-khy4lop6wu.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\pel4touo26-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\m7n7u54s40-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\pkjd06recn-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\8ggy4h2qbf-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\lmias9g07u-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\v5j2bkut3h-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\n0xm5x8bso-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\hdxhxjhyxp-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\br2wmx688n-{0}-ub07r2b239-ub07r2b239.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\utb7p5f1gx-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\exmq5ebdnz-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\dxa9ay9wfx-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\3phomt0mv1-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\t15nu9dnnu-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\7n1t4mz10p-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\p79xbhpr48-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\nriovnq2xz-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\4iopbcgimv-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\tza90skr01-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\kkpin5w3dp-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\ptws3jclno-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\gd85qxfjo4-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\gxzkvow2zn-{0}-06098lyss8-06098lyss8.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\xnwexr0v8l-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\g29csbpijt-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\9ov1w29x6i-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\s1az6i07t4-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\it419pyh2d-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\6q1dl0oxdl-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\n7knzk1mma-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\033w9vhipb-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\4a72ijso1q-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\gberq5g7t7-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\fln9zcxskd-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\1rtiwowhhw-{0}-493y06b0oq-493y06b0oq.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\yn0qpm3lzb-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\v5rf1muigo-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\r1zdaajumf-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\esg489ktfe-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\o3ysjpmxoq-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\j7ky25nluq-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\rgtsc0hddr-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\0yj3d565vh-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\qtsnn3ak0c-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\a0ue8trm1i-{0}-abdmv1u4y3-abdmv1u4y3.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\g3xwyjga9r-{0}-wyu7y4jcvb-wyu7y4jcvb.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\qyxi9h1xjj-{0}-wfr2hj6447-wfr2hj6447.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\grze1mlk69-{0}-b1q9ufjrbq-b1q9ufjrbq.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\quvsbvr9dk-{0}-b1q9ufjrbq-b1q9ufjrbq.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\staticwebassets.build.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\staticwebassets.development.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\swae.build.ex.cache
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\PCUI.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\refint\PCUI.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\PCUI.pdb
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\PCUI.genruntimeconfig.cache
+D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\ref\PCUI.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\bin\Debug\net10.0\appsettings.Development.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\bin\Debug\net10.0\appsettings.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\bin\Debug\net10.0\PCUI.staticwebassets.runtime.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\bin\Debug\net10.0\PCUI.staticwebassets.endpoints.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\bin\Debug\net10.0\PCUI.exe
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\bin\Debug\net10.0\PCUI.deps.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\bin\Debug\net10.0\PCUI.runtimeconfig.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\bin\Debug\net10.0\PCUI.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\bin\Debug\net10.0\PCUI.pdb
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\EmbeddedAttribute.cs
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\ValidatableTypeAttribute.cs
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\PCUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\PCUI.AssemblyInfoInputs.cache
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\PCUI.AssemblyInfo.cs
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\PCUI.csproj.CoreCompileInputs.cache
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\PCUI.MvcApplicationPartsAssemblyInfo.cache
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\scopedcss\Components\Layout\ReconnectModal.razor.rz.scp.css
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\scopedcss\bundle\PCUI.styles.css
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\scopedcss\projectbundle\PCUI.bundle.scp.css
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\n4sgks9mcu-{0}-khy4lop6wu-khy4lop6wu.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\pel4touo26-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\m7n7u54s40-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\pkjd06recn-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\8ggy4h2qbf-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\lmias9g07u-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\v5j2bkut3h-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\n0xm5x8bso-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\hdxhxjhyxp-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\br2wmx688n-{0}-ub07r2b239-ub07r2b239.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\utb7p5f1gx-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\exmq5ebdnz-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\dxa9ay9wfx-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\3phomt0mv1-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\t15nu9dnnu-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\7n1t4mz10p-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\p79xbhpr48-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\nriovnq2xz-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\4iopbcgimv-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\tza90skr01-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\kkpin5w3dp-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\ptws3jclno-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\gd85qxfjo4-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\gxzkvow2zn-{0}-06098lyss8-06098lyss8.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\xnwexr0v8l-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\g29csbpijt-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\9ov1w29x6i-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\s1az6i07t4-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\it419pyh2d-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\6q1dl0oxdl-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\n7knzk1mma-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\033w9vhipb-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\4a72ijso1q-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\gberq5g7t7-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\fln9zcxskd-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\1rtiwowhhw-{0}-493y06b0oq-493y06b0oq.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\yn0qpm3lzb-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\v5rf1muigo-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\r1zdaajumf-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\esg489ktfe-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\o3ysjpmxoq-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\j7ky25nluq-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\rgtsc0hddr-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\0yj3d565vh-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\qtsnn3ak0c-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\a0ue8trm1i-{0}-abdmv1u4y3-abdmv1u4y3.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\g3xwyjga9r-{0}-cd06xom9c5-cd06xom9c5.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\qyxi9h1xjj-{0}-vmftroxvhh-vmftroxvhh.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\grze1mlk69-{0}-b1q9ufjrbq-b1q9ufjrbq.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\compressed\quvsbvr9dk-{0}-b1q9ufjrbq-b1q9ufjrbq.gz
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\staticwebassets.build.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\staticwebassets.development.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\swae.build.ex.cache
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\PCUI.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\refint\PCUI.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\PCUI.pdb
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\PCUI.genruntimeconfig.cache
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\ref\PCUI.dll
+D:\Yogesh\SEO\Yogihosting\new\Microservices Asynchronous Communication\Asynchronous-Communication\ProcessCenter\PCUI\obj\Debug\net10.0\PCUI.csproj.Up2Date

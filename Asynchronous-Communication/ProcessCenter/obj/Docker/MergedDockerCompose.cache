@@ -1,0 +1,117 @@
+name: dockercompose7271507016069329495
+services:
+  mongo1:
+    command:
+      - mongod
+      - --port
+      - "27016"
+    container_name: mongo1
+    image: mongo
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 27016
+        published: "27016"
+        protocol: tcp
+    volumes:
+      - type: volume
+        source: mongodbdata
+        target: /data/db
+        volume: {}
+  pcui:
+    build:
+      context: D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter
+      dockerfile: PCUI/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      ASPNETCORE_HTTPS_PORTS: "8081"
+    image: pcui
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8080
+        published: "7000"
+        protocol: tcp
+      - mode: ingress
+        target: 8081
+        published: "7001"
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\Avita\AppData\Roaming/Microsoft/UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\Avita\AppData\Roaming/Microsoft/UserSecrets
+        target: /root/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\Avita\AppData\Roaming/ASP.NET/Https
+        target: /home/app/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\Avita\AppData\Roaming/ASP.NET/Https
+        target: /root/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+  processcenter:
+    build:
+      context: D:\Yogesh\SEO\Yogihosting\new\Microservices-new\Asynchronous-Communication\ProcessCenter
+      dockerfile: ProcessCenter/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      ASPNETCORE_HTTPS_PORTS: "8081"
+    image: processcenter
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8080
+        published: "6000"
+        protocol: tcp
+      - mode: ingress
+        target: 8081
+        published: "6001"
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\Avita\AppData\Roaming/Microsoft/UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\Avita\AppData\Roaming/Microsoft/UserSecrets
+        target: /root/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\Avita\AppData\Roaming/ASP.NET/Https
+        target: /home/app/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\Avita\AppData\Roaming/ASP.NET/Https
+        target: /root/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+networks:
+  default:
+    name: dockercompose7271507016069329495_default
+volumes:
+  mongodbdata:
+    name: dockercompose7271507016069329495_mongodbdata
