@@ -1,19 +1,48 @@
 # Microservices Asynchronous Communication with RabbitMQ and MassTransit
+
+<img src="https://www.yogihosting.com/wp-content/uploads/2026/10/Microservices-Asynchronous-Communication-with-RabbitMQ-and-MassTransit.png" alt="Microservice Asynchronous Communication with RabbitMQ and MassTransit"  title="Microservice Asynchronous Communication with RabbitMQ and MassTransit">
+
 Here we will understand how Asynchronous Communication between Microservices work. In our Pizza Drone Delivery application we have 2 Microservices – CommandCenter and ProcessCenter. They communicate with one another synchronously using HttpClient class.
 
-**Repository is updated to .NET 8.0**
+**Repository is updated to .NET 10.0**
 
-Read the entire article here - https://www.hosting.work/aspnet-core-microservices-asynchronous-communication-rabbitmq-masstransit/
+Read the entire article here - https://www.yogihosting.com/aspnet-core-microservice-asynchronous-communication-rabbitmq-masstransit/
 
 # Tutorial Contents
 1. What is RabbitMQ
-2. Installing RabbitMQ with Docker
-3. Setting Publisher microservice in RabbitMQ
-4. What is MassTransit
-5. Testing message Publishing
-6. Setting Consumer microservice in RabbitMQ
-7. Testing the Consumer
-8. Storing the PizzaItems Collection in MongoDB for ProcessCenter Microservice
+2. Setting Publisher microservice in RabbitMQ
+3. What is MassTransit
+4. Setting Consumer microservice in RabbitMQ
+5. Storing the PizzaItems Collection in MongoDB for ProcessCenter Microservice
+6. Installing RabbitMQ with Docker
+7. Testing the Microservices
+
+# How to run the app
+
+Run both the Microservices one by one by the docker compose commands:
+
+```
+docker-compose build
+docker-compose up -d
+```
+
+<img src="https://www.yogihosting.com/wp-content/uploads/2026/10/docker-compose-up.png" alt="Docker Compose Up Command" title="Docker Compose Up Command" class="img-fluid">
+
+Now access the CCUI project on the browser. It’s url being – `https://localhost:9001/`
+
+<img src="https://www.yogihosting.com/wp-content/uploads/2026/10/create-order-ccui.png" alt="Create Order CCUI" title="Create Order CCUI" class="img-fluid">
+
+Also access the Web API with Swagger. It's url being - `https://localhost:8001/swagger`
+
+<img src="https://www.yogihosting.com/wp-content/uploads/2026/10/swagger.png" alt="Swagger" title="Swagger" class="img-fluid">
+
+Access the PCUI project on the browser. It’s url being – `https://localhost:7001/`
+
+<img src="https://www.yogihosting.com/wp-content/uploads/2026/10/processcenter-microservice-add-record.png" alt="ProcessCenter Microservice Add Record"  title="ProcessCenter Microservice Add Record">
+
+Also access the Web API with Swagger. It's url being - https://localhost:6001/swagger
+
+<img src="https://www.yogihosting.com/wp-content/uploads/2026/10/swagger-processcenter.png" alt="ProcessCenter Swagger"  title="ProcessCenter Swagger">
 
 ## Want to support me ?
 
